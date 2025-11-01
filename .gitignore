@@ -1,0 +1,31 @@
+# Python / aiogram
+__pycache__/
+*.py[cod]
+*.log
+.env
+.env.*
+.venv/
+venv/
+.cache/
+.mypy_cache/
+.pytest_cache/
+
+# Build/packaging
+build/
+dist/
+*.egg-info/
+
+# Tools
+.idea/
+.vscode/
+
+# Data / artifacts
+*.db
+*.sqlite*
+*.tar
+*.tar.gz
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
